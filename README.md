@@ -1,1 +1,1 @@
-# A Portfolio of some of my Projects.
+# A Portfolio for some of my Projects.
